@@ -1,0 +1,13 @@
+
+                Nombre:joaquin
+
+                Email:elvistec@ipchile.cl
+
+                Mensaje:asdasd
+                <hr style=height:2px;border-width:50%;color:gray;background-color:gray>
+                Nombre:pepito
+
+                Email:pablito@ipchile.cl
+
+                Mensaje:asda
+                <hr style=height:2px;border-width:50%;color:gray;background-color:gray>
